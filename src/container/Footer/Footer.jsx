@@ -47,5 +47,5 @@ const Footer = () => (
     </div>
   </div>
 );
-
+// End of Gerícht Web App
 export default Footer;

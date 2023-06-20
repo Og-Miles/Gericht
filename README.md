@@ -1,3 +1,4 @@
+![Screenshot (16)](https://github.com/Og-Miles/Gericht/assets/95836608/6592cfc3-9128-49bf-b59e-f19a2d943886)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
